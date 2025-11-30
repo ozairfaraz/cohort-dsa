@@ -1,0 +1,9 @@
+//ans=>3
+// Explanation. 
+// y += 2 → 7 + 2 = 9
+
+// y *= 3 → 9 * 3 = 27
+
+// y -= 4 → 27 - 4 = 23
+
+// y %= 5 → 23 % 5 = 3 ✅ Wait careful: 23 / 5 = 4 remainder 3 ✅

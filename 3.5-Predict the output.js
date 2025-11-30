@@ -1,0 +1,3 @@
+// ans=>11.25
+// Explanation. 
+// In JavaScript, all numbers are floating-point by default. So y /= 4 calculates 45 / 4 = 11.25. Unlike Java, JS does not discard fractional parts.
