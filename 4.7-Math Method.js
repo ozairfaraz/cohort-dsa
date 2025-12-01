@@ -1,0 +1,3 @@
+// ans=>Math.ceil()
+// Explanation. 
+// • Math.ceil(x) returns the smallest integer greater than or equal to x. It rounds up to the nearest integer.
