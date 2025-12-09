@@ -1,4 +1,0 @@
-//ans=>11
-//Explanation. 
-// 3 * 2 = 6 (multiplication has higher precedence than +=)
-// a += 6 → 5 + 6 = 11

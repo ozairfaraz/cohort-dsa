@@ -1,4 +1,0 @@
-// ans=>-7
-// Explanation. 
-// • Math.min() returns the smallest number from the given values.
-// • Among 2, 0, -3, 5, -7, the smallest number is -7.

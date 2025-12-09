@@ -1,4 +1,0 @@
-//ans=>16
-// Explanation. 
-// 5 - 2 = 3
-// x /= 3 → 50 / 3 = 16 (integer division in JavaScript truncates)
