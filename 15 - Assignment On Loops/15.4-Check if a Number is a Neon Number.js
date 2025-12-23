@@ -6,7 +6,7 @@ class Solution {
         while(sqNum>0){
             let lstDig = Math.floor(sqNum%10);
             sum+=lstDig;
-            sqNum=Math.floor(sqNum/10);
+            sqNum= Math.floor(sqNum/10);
         }
         if (sum===num) return "Yes";
         return "No";
