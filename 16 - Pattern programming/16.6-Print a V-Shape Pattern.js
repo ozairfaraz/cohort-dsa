@@ -1,0 +1,11 @@
+function printVShapePattern(n) {
+    for(let i=1;i<=n;i++){
+        for(let j=1;j<=n+(n-1);j++){
+            if ((i===j)||(i+j===2*n)) process.stdout.write("*")
+            else process.stdout.write(" ")
+        }
+        console.log();
+    }    
+}
+
+module.exports = { printVShapePattern };
